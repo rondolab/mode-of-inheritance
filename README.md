@@ -1,6 +1,6 @@
 # MOI-Pred
 
-MOI-Pred is a three-way variant-level mode of inheritance prediction tool aimed at recessive identification of missense variants. 
+MOI-Pred (Mode Of Inheritance-Predictor) is a three-way variant-level mode of inheritance prediction tool that specifically tackles recessive identification of missense variants.
 
 MOI-Pred uses a random forest model to predict variants pathogenic for autosomal recessive (AR) disease, pathogenic for autosomal dominant (AD) disease, or benign. The model learns from 78 functional, evolutionary and population frequency annotations.
 
