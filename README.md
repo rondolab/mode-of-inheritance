@@ -6,5 +6,5 @@ MOI-Pred uses a random forest model to predict variants pathogenic for autosomal
 
 We provide pre-computed MOI-Pred predictions for 71M missense variants in the human genome (hg38), please use: https://doi.org/10.5281/zenodo.5565247
 
-Details about MOI-Pred, including the methods, features and performance assessment are described in our manuscript: 
-BO Petrazzini, DJ Balick, IS Forrest, J Cho, G Rocheleau, DM Jordan*, R Do*. Prediction of recessive inheritance for missense variants in human disease. Submitted.
+Details about MOI-Pred, including the methods, features and performance assessment are described in our preprint: 
+Ben O. Petrazzini, Daniel J. Balick, Iain S. Forrest, Judy Cho, Ghislain Rocheleau, Daniel M. Jordan*, Ron Do*. Prediction of recessive inheritance for missense variants in human disease. medRxiv 2021.10.25.21265472; doi: https://doi.org/10.1101/2021.10.25.21265472.
